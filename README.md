@@ -1,5 +1,7 @@
 ### Hi there 👋
-##### I am Kavindu Yasintha Silva,Software Engineering Undergraduate at NSBM Green university.
+##### I am kavindu yasintha silva,Software Engineering Undergraduate at NSBM Green university.😁 🎓 👨🏻‍💻
+
+
 
 <!--
 **kavindyasinthasilva/kavindyasinthasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
