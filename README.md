@@ -13,7 +13,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kavindyasinthasilva)](https://play.google.com/store/apps/details?id=com.kavinduyasintha.beauty)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/username=kavindyasinthasilva)]()
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api?username=kavindyasinthasilva)]()
 
 <!--
 **kavindyasinthasilva/kavindyasinthasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
