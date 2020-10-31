@@ -12,7 +12,13 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kavindyasinthasilva)](https://play.google.com/store/apps/details?id=com.kavinduyasintha.beauty)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=kavindyasinthasilva&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
 
 
 <!--
