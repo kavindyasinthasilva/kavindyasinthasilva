@@ -22,23 +22,7 @@
   
   <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/kavindusilva2 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-9e79ce88-3eab-4207-9615-be6c9c9a8378' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >kavindusilva2</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>I am an undergraduate at NSBM Green University.
-I am currently a second-year student in Software Engineering. I have the skills you are looking for Job
-basically, as the abilities, I have a mobile application, web application, and DevOps. some of my ability can you see
-my GitHub, LinkedIn, Qwiklabs, acclaim, and my google play store developer account. I have more experience
-hackathons with interuniversity, Google Cloud, Azure, SAS, Firebase FreeCodeCamp, Linux Education, The above instances are described below.</div>
-        </div>
-    </a>
-</div>
 
-<script id='fiverr-seller-widget-script-9e79ce88-3eab-4207-9615-be6c9c9a8378' src='https://widgets.fiverr.com/api/v1/seller/kavindusilva2?widget_id=9e79ce88-3eab-4207-9615-be6c9c9a8378' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
 
 
 
