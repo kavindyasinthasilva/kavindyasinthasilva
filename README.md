@@ -18,7 +18,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindyasinthasilva&layout=compact&exclude_repo=PingMeRN"
     />
   </a>
-  
+  https://kavinduyasintha.info/
   
   <!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
 
