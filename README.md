@@ -38,6 +38,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![GO](https://img.shields.io/badge/-go-black)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kavindyasinthasilva&count_private=true&show_icons=true&include_all_commits=true)  <img alt="right" width="200" src="https://github.com/kavindyasinthasilva/kavindyasinthasilva/blob/master/NUX_Octodex.gif"> </img>
